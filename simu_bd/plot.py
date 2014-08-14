@@ -2,7 +2,9 @@ import numpy as np
 import pylab as pl
 
 da1 = np.loadtxt('6724-0-v2.txt')
-da2 = np.loadtxt('656-7-0.TXT')
+# testing line
+#da2 = np.loadtxt('656-7-0.TXT')
+
 da3 = np.loadtxt('6724-17-v2.txt')
 #da4 = np.loadtxt('656-8-15.TXT')
 
